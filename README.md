@@ -35,7 +35,7 @@
   </a>
     &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Rails" src="https://img.shields.io/badge/Rails-%23563D7C.svg?style=flat&logo=rails&logoColor=white"/>
+    <img alt="Rails" src="https://img.shields.io/badge/RubyOnRails-%23563D7C.svg?style=flat&logo=rails&logoColor=white"/>
   </a>
 </p>
 
