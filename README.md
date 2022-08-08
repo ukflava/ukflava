@@ -18,6 +18,27 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
  </p>
+ 
+ ### 👉 Backend Development
+<p align="left"> 
+  &emsp; 
+  <a href="/" target="_blank"> 
+   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS%20-%23E34F26.svg?logo=Nodejs&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="/" target="_blank">
+    <img alt="Express" src="https://img.shields.io/badge/Express%20-%231572B6.svg?logo=express&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="/" target="_blank"> 
+    <img alt="Bcrypt" src="https://img.shields.io/badge/Bcrypt-61DAFB?logo=bcrypt&logoColor=white"/>
+  </a>
+    &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Rails" src="https://img.shields.io/badge/Rails-%23563D7C.svg?style=flat&logo=rails&logoColor=white"/>
+  </a>
+</p>
+
 
 ### 👉 Frontend Development
 <p align="left"> 
