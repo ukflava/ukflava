@@ -75,12 +75,12 @@
 <!-- ## 📊 Github Stats (Expand to View)  -->
 
 
-<details> 
+<!-- <details> 
 
 <br/>
   <b>Note:</b> I would love to dive deep into new languages.
   </p>
-</details>
+</details> -->
 
 <br/>
 
