@@ -17,11 +17,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
-  &emsp;
-  <a href="https://www.ruby-lang.org/en/">
-    <img alt="Ruby" src="https://img.shields.io/badge/ruby-https%3A%2F%2Fwww.ruby--lang.org%2Fen%2F-lightgrey"/>
-  </a>
-</p>
+ </p>
 
 ### 👉 Frontend Development
 <p align="left"> 
@@ -35,7 +31,7 @@
   </a> 
    &emsp;
   <a href="https://reactjs.org/" target="_blank"> 
-    <img alt="REact" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+    <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
   </a>
     &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
@@ -59,9 +55,7 @@
 <p>
   &emsp;
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-  &emsp;
+   &emsp;
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -78,29 +72,14 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+<!-- ## 📊 Github Stats (Expand to View)  -->
 
 
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+
 <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candida18&show_icons=true&locale=en&layout=compact&theme=algolia" alt="candida18" height="192px"/>
-  <br/>
   <b>Note:</b> I would love to dive deep into new languages.
   </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/uklava"><img alt="Candida's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 </details>
 
 <br/>
