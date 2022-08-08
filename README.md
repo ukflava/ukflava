@@ -4,7 +4,7 @@
 <hr/>
 <h4 align="center">I am a Junior Web Dev and like to Code and Experiment. Falled in love with JS when started to solve KATAs for the first time. Want to spend my life getting new skills and bringing ideas to life.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+
 
 
 
