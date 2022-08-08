@@ -42,7 +42,7 @@
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.postgresql.org/"><img alt="PGSQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.postgresql.org/"><img alt="PGSQL" src="https://img.shields.io/badge/PGSQL-%2300f.svg?style=flat&llogo=pgsql&logoColor=white"></a>
    &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
