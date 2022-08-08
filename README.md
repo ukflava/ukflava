@@ -31,7 +31,7 @@
   </a> 
    &emsp;
   <a href="https://reactjs.org/" target="_blank"> 
-    <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+    <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"/>
   </a>
     &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
