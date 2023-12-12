@@ -1,12 +1,8 @@
-
 <h1 align="center">Hi , I'm Den <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <hr/>
-<h4 align="center">I am a Junior Web Dev and like to Code and Experiment. Falled in love with JS when started to solve KATAs for the first time. Want to spend my life getting new skills and bringing ideas to life.</h4>
+<h4 align="center">I am a Web Dev and like to Code and Experiment. Fell in love with JS when started to solve KATAs for the first time. Want to spend my life getting new skills and bringing ideas to life.</h4>
 <br>
-
-
-
 
 ## 🛠️ My Skills
 
@@ -19,7 +15,7 @@
    </a>
  </p>
  
- ### 👉 Backend Development
+### 👉 Backend Development
 <p align="left"> 
   &emsp; 
   <a href="/" target="_blank"> 
@@ -37,6 +33,10 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Rails" src="https://img.shields.io/badge/RubyOnRails-%23563D7C.svg?style=flat&logo=rails&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="/" target="_blank"> 
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
+  </a>
 </p>
 
 
@@ -51,6 +51,18 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
    &emsp;
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vuedotjs&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://nuxtjs.org/" target="_blank"> 
+    <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00C58E.svg?logo=nuxtdotjs&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://tailwindcss.com/" target="_blank"> 
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
+  </a>
+    &emsp;
   <a href="https://reactjs.org/" target="_blank"> 
     <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"/>
   </a>
@@ -68,6 +80,8 @@
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+  &emsp;
+    <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white"></a>
  </p>
   
 
@@ -93,34 +107,11 @@
 
 <br/>
 
-<!-- ## 📊 Github Stats (Expand to View)  -->
-
-
-<!-- <details> 
-
-<br/>
-  <b>Note:</b> I would love to dive deep into new languages.
-  </p>
-</details> -->
-
-<br/>
-
 ## 🙋‍♀️ Let's Connect
 <p align="center">
   	<a href="mailto:ukflava@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/ukflava"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/den-krut"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-
 </p>
 
 <hr/>
-
-
-
-
-
-
-<!---
-ukflava/ukflava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
