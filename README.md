@@ -13,6 +13,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
+ &emsp;
+  <a href="/" target="_blank"> 
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
+  </a>
  </p>
  
 ### 👉 Backend Development
@@ -32,10 +36,6 @@
     &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Rails" src="https://img.shields.io/badge/RubyOnRails-%23563D7C.svg?style=flat&logo=rails&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="/" target="_blank"> 
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white"/>
   </a>
 </p>
 
