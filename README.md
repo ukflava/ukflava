@@ -29,6 +29,10 @@
   <a href="/" target="_blank">
     <img alt="Express" src="https://img.shields.io/badge/Express%20-%231572B6.svg?logo=express&logoColor=white">
   </a> 
+  &emsp;
+  <a href="https://nuxtjs.org/" target="_blank"> 
+    <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00C58E.svg?logo=nuxtdotjs&logoColor=white"/>
+  </a>
    &emsp;
   <a href="/" target="_blank"> 
     <img alt="Bcrypt" src="https://img.shields.io/badge/Bcrypt-61DAFB?logo=bcrypt&logoColor=white"/>
@@ -54,11 +58,7 @@
   <a href="https://vuejs.org/" target="_blank"> 
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vuedotjs&logoColor=white"/>
   </a>
-  &emsp;
-  <a href="https://nuxtjs.org/" target="_blank"> 
-    <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt.js-00C58E.svg?logo=nuxtdotjs&logoColor=white"/>
-  </a>
-  &emsp;
+   &emsp;
   <a href="https://tailwindcss.com/" target="_blank"> 
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
   </a>
